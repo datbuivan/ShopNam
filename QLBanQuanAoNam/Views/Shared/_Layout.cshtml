@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - QLBanQuanAoNam</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/QLBanQuanAoNam.styles.css" asp-append-version="true" />
+	<link rel="icon" type="image/png" href="../FashionMen/images/icons/favicon.png" />
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../FashionMen/vendor/bootstrap/css/bootstrap.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../FashionMen/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../FashionMen/fonts/iconic/css/material-design-iconic-font.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../FashionMen/fonts/linearicons-v1.0.0/icon-font.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../FashionMen/vendor/animate/animate.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../FashionMen/vendor/css-hamburgers/hamburgers.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../FashionMen/vendor/animsition/css/animsition.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../FashionMen/vendor/select2/select2.min.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../FashionMen/vendor/daterangepicker/daterangepicker.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../FashionMen/vendor/slick/slick.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../FashionMen/vendor/MagnificPopup/magnific-popup.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../FashionMen/vendor/perfect-scrollbar/perfect-scrollbar.css">
+	<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="../FashionMen/css/util.css">
+	<link rel="stylesheet" type="text/css" href="../FashionMen/css/main.css">
+	<!--===============================================================================================-->
+</head>
+<body>
+    @await Html.PartialAsync("~/Views/Shared/_PartialHeader.cshtml")
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    @await Html.PartialAsync("~/Views/Shared/_PartialFooter.cshtml")
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+	<script src="../FashionMen/vendor/jquery/jquery-3.2.1.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="../FashionMen/vendor/animsition/js/animsition.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="../FashionMen/vendor/bootstrap/js/popper.js"></script>
+	<script src="../FashionMen/vendor/bootstrap/js/bootstrap.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="../FashionMen/vendor/select2/select2.min.js"></script>
+
+	<!--===============================================================================================-->
+	<script src="../FashionMen/vendor/daterangepicker/moment.min.js"></script>
+	<script src="../FashionMen/vendor/daterangepicker/daterangepicker.js"></script>
+	<!--===============================================================================================-->
+	<script src="../FashionMen/vendor/slick/slick.min.js"></script>
+	<script src="../FashionMen/js/slick-custom.js"></script>
+	<!--===============================================================================================-->
+	<script src="../FashionMen/vendor/parallax100/parallax100.js"></script>
+
+	<!--===============================================================================================-->
+	<script src="../FashionMen/vendor/MagnificPopup/jquery.magnific-popup.min.js"></script>
+
+	<!--===============================================================================================-->
+	<script src="../FashionMen/vendor/isotope/isotope.pkgd.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="../FashionMen/vendor/sweetalert/sweetalert.min.js"></script>
+
+	<!--===============================================================================================-->
+	<script src="../FashionMen/vendor/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+	<!--===============================================================================================-->
+	<script src="../FashionMen/js/main.js"></script>
+</body>
+</html>

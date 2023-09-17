@@ -1,0 +1,2281 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\QLBanQuanAoNam.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QLBanQuanAoNam.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\css\\cs-skin-elastic.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\cs-skin-elastic.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\css\\lib\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\css\\lib\\chosen\\chosen-sprite@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\chosen\\chosen-sprite@2x.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\css\\lib\\chosen\\chosen.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\chosen\\chosen.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\css\\lib\\chosen\\chosen.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\chosen\\chosen.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\css\\lib\\datatable\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\datatable\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\css\\lib\\datatable\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\datatable\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\css\\lib\\datatable\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\datatable\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\css\\lib\\vector-map\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\vector-map\\jqvmap.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\fonts\\icomoon\\index.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\icomoon\\index.html"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\init\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\chartjs-init.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\init\\datatables-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\datatables-init.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\init\\flot-chart-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\flot-chart-init.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\init\\fullcalendar-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\fullcalendar-init.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\init\\gmap-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\gmap-init.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\init\\peitychart-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\peitychart-init.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\init\\vector-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\vector-init.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\init\\weather-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\weather-init.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\chosen\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\chosen\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\chosen\\chosen.proto.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\chosen\\chosen.proto.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\chosen\\chosen.proto.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\chosen\\chosen.proto.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\buttons.flash.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\buttons.html5.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\buttons.print.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\datatables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\datatables.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\jquery-1.12.4.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\jquery-1.12.4.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\jszip.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\jszip.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\pdfmake.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\vfs_fonts.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\gmap\\gmapApi.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\gmap\\gmapApi.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\gmap\\gmaps.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\gmap\\gmaps.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\lib\\gmap\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\gmap\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\vmap.sampledata.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\js\\widgets.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\widgets.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\scss\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\style.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\scss\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\style.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\images\\.gitignore",
+      "PackagePath": "staticwebassets\\Admin\\images\\.gitignore"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\images\\admin.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\admin.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\images\\avatar\\4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\4.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\images\\avatar\\5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\5.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\images\\avatar\\6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\6.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\images\\avatar\\64-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\64-1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\images\\avatar\\64-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\64-2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\images\\logo.psd",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.psd"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Admin\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo2.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\css\\main.css",
+      "PackagePath": "staticwebassets\\FashionMen\\css\\main.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\css\\util.css",
+      "PackagePath": "staticwebassets\\FashionMen\\css\\util.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Montserrat\\OFL.txt"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\PlayfairDisplay\\OFL.txt",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\PlayfairDisplay\\OFL.txt"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\PlayfairDisplay\\PlayfairDisplay-Black.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\PlayfairDisplay\\PlayfairDisplay-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\PlayfairDisplay\\PlayfairDisplay-Bold.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\PlayfairDisplay\\PlayfairDisplay-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\PlayfairDisplay\\PlayfairDisplay-Italic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\PlayfairDisplay\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\Poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\Poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\iconic\\css\\material-design-iconic-font.css",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\iconic\\css\\material-design-iconic-font.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\iconic\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\iconic\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\iconic\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\linearicons-v1.0.0\\WebFont\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\fonts\\linearicons-v1.0.0\\icon-font.min.css",
+      "PackagePath": "staticwebassets\\FashionMen\\fonts\\linearicons-v1.0.0\\icon-font.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\Banner.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\Banner.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\about-01.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\about-01.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\about-02.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\about-02.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\avatar-01.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\banner-01.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\banner-01.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\banner-02.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\banner-02.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\banner-03.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\banner-03.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\banner-04.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\banner-04.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\banner-05.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\banner-05.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\banner-06.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\banner-06.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\banner-07.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\banner-07.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\banner-08.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\banner-08.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\banner-09.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\banner-09.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\bg-01.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\bg-01.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\bg-02.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\bg-02.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\blog-01.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\blog-02.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\blog-03.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\blog-04.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\blog-05.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\blog-05.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\blog-06.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\blog-06.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\gallery-01.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\gallery-01.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\gallery-02.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\gallery-02.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\gallery-03.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\gallery-03.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\gallery-04.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\gallery-04.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\gallery-05.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\gallery-05.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\gallery-06.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\gallery-06.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\gallery-07.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\gallery-07.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\gallery-08.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\gallery-08.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\gallery-09.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\gallery-09.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\avatar.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\avatar.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\avatar1.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\avatar1.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\avatara.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\avatara.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\cart.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\cart.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\favicon.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\favicon.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\icon-close.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\icon-close.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\icon-close2.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\icon-close2.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\icon-email.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\icon-email.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\icon-heart-01.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\icon-heart-01.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\icon-heart-02.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\icon-heart-02.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\icon-next.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\icon-next.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\icon-pay-01.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\icon-pay-01.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\icon-pay-02.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\icon-pay-02.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\icon-pay-03.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\icon-pay-03.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\icon-pay-04.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\icon-pay-04.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\icon-pay-05.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\icon-pay-05.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\icon-prev.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\icon-prev.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\logo-01.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\logo-01.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\logo-02.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\logo-02.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\icons\\pin.png",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\icons\\pin.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\item-cart-01.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\item-cart-01.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\item-cart-02.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\item-cart-02.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\item-cart-03.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\item-cart-03.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\item-cart-04.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\item-cart-04.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\item-cart-05.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\item-cart-05.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-01.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-01.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-02.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-02.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-03.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-03.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-04.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-04.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-05.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-05.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-06.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-06.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-07.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-07.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-08.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-08.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-09.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-09.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-10.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-11.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-12.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-13.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-13.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-14.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-14.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-15.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-15.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-16.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-16.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-detail-01.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-detail-01.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-detail-02.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-detail-02.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-detail-03.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-detail-03.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-min-01.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-min-01.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-min-02.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-min-02.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\product-min-03.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\product-min-03.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\slide-01.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\slide-01.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\slide-02.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\slide-02.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\slide-03.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\slide-03.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\slide-04.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\slide-04.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\slide-05.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\slide-05.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\slide-06.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\slide-06.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\slide-07.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\slide-07.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\slide.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\slide.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\slide1.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\slide1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\slide2.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\slide2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\thumb-01.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\thumb-01.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\thumb-02.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\thumb-02.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\images\\thumb-03.jpg",
+      "PackagePath": "staticwebassets\\FashionMen\\images\\thumb-03.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\index.html",
+      "PackagePath": "staticwebassets\\FashionMen\\index.html"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\js\\main.js",
+      "PackagePath": "staticwebassets\\FashionMen\\js\\main.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\js\\map-custom.js",
+      "PackagePath": "staticwebassets\\FashionMen\\js\\map-custom.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\js\\slick-custom.js",
+      "PackagePath": "staticwebassets\\FashionMen\\js\\slick-custom.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\MagnificPopup\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\MagnificPopup\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\MagnificPopup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\MagnificPopup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\MagnificPopup\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\index.html",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\index.html"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\jqueryui\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\jqueryui\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\lightbox2\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\lightbox2\\css\\lightbox.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\lightbox2\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\lightbox2\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\lightbox2\\images\\close.png",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\lightbox2\\images\\close.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\lightbox2\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\lightbox2\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\lightbox2\\images\\next.png",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\lightbox2\\images\\next.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\lightbox2\\images\\prev.png",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\lightbox2\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\lightbox2\\js\\lightbox-plus-jquery.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\lightbox2\\js\\lightbox-plus-jquery.min.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\lightbox2\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\lightbox2\\js\\lightbox.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\lightbox2\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\lightbox2\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\lightbox2\\js\\lightbox.min.map",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\lightbox2\\js\\lightbox.min.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\parallax100\\parallax100.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\parallax100\\parallax100.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\slick\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\slick\\config.rb"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\slick\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\slick\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\slick\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\slick\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\slick\\slick-theme.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\slick\\slick.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\slick\\slick.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\slick\\slick.less"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\slick\\slick.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\slick\\slick.scss"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\FashionMen\\vendor\\sweetalert\\sweetalert.min.js",
+      "PackagePath": "staticwebassets\\FashionMen\\vendor\\sweetalert\\sweetalert.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Active_V2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Active_V2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Active_V2_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Active_V2_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Active_V2_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Active_V2_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Active_V2_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Active_V2_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Banner.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Banner.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_Tech.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_Tech.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_Tech_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_Tech_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_Tech_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_Tech_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_Tech_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_Tech_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_baseball.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_baseball.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_baseball_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_baseball_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_baseball_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_baseball_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_baseball_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_baseball_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_bocket.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_bocket.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_bocket_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_bocket_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_bocket_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_bocket_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_bocket_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_bocket_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_classic.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_classic.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_classic_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_classic_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_classic_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_classic_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_classic_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_classic_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_simple.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_simple.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_simple_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_simple_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_simple_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_simple_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Mu_simple_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Mu_simple_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Active_V1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Active_V1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Active_V1_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Active_V1_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Active_V1_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Active_V1_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Active_V1_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Active_V1_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Active_V2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Active_V2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Active_V2_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Active_V2_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Active_V2_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Active_V2_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Active_V2_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Active_V2_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Anti_Smell.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Anti_Smell.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Cafe.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Cafe.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Cafe_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Cafe_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Cafe_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Cafe_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Cafe_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Cafe_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Cleandye.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Cleandye.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Cleandye_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Cleandye_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Cleandye_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Cleandye_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Cleandye_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Cleandye_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Dris.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Dris.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Dris_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Dris_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Dris_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Dris_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Dris_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Dris_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Excool.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Excool.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Excool_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Excool_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Excool_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Excool_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Excool_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Excool_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_ProMax.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_ProMax.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_ProMax_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_ProMax_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_ProMax_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_ProMax_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_ProMax_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_ProMax_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Polo_Usa.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Polo_Usa.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\SoMi_DriS.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\SoMi_DriS.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\SoMi_DriS_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\SoMi_DriS_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\SoMi_DriS_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\SoMi_DriS_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\SoMi_DriS_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\SoMi_DriS_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\SoMi_cafe.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\SoMi_cafe.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\SoMi_cafe_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\SoMi_cafe_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\SoMi_cafe_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\SoMi_cafe_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\SoMi_cafe_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\SoMi_cafe_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\SoMi_excool.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\SoMi_excool.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\SoMi_excool_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\SoMi_excool_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\SoMi_excool_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\SoMi_excool_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\SoMi_excool_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\SoMi_excool_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Spider_Man.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Spider_Man.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Spider_Man_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Spider_Man_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Spider_Man_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Spider_Man_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Spider_Man_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Spider_Man_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_Active.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_Active.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_Active_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_Active_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_Active_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_Active_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_Active_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_Active_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_Compression.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_Compression.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_Compression_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_Compression_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_Compression_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_Compression_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_Compression_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_Compression_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_Modal.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_Modal.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_Modal_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_Modal_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_Modal_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_Modal_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_Modal_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_Modal_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_assential.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_assential.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_assential_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_assential_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_assential_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_assential_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_assential_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_assential_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_casual.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_casual.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_casual_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_casual_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_casual_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_casual_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\Tat_casual_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\Tat_casual_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\anh_trang.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\anh_trang.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\ao_thun_basic.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\ao_thun_basic.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\ao_thun_basic_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\ao_thun_basic_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\ao_thun_basic_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\ao_thun_basic_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\ao_thun_basic_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\ao_thun_basic_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\ao_thun_compact.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\ao_thun_compact.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\ao_thun_compact_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\ao_thun_compact_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\ao_thun_compact_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\ao_thun_compact_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\ao_thun_compact_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\ao_thun_compact_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\ao_thun_marvel.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\ao_thun_marvel.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\ao_thun_marvel_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\ao_thun_marvel_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\ao_thun_marvel_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\ao_thun_marvel_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\ao_thun_marvel_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\ao_thun_marvel_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\marvel_big.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\marvel_big.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\marvel_big_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\marvel_big_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\marvel_big_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\marvel_big_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\marvel_big_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\marvel_big_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\promax_S1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\promax_S1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\promax_S1_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\promax_S1_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\promax_S1_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\promax_S1_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\promax_S1_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\promax_S1_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_daily.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_daily.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_daily_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_daily_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_daily_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_daily_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_daily_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_daily_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_jogger.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_jogger.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_jogger_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_jogger_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_jogger_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_jogger_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_jogger_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_jogger_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_kaki.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_kaki.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_kaki_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_kaki_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_kaki_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_kaki_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_kaki_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_kaki_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_ni.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_ni.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_ni_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_ni_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_ni_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_ni_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_dai_ni_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_dai_ni_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_basic.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_basic.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_basic_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_basic_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_basic_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_basic_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_basic_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_basic_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_clean.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_clean.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_clean_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_clean_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_clean_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_clean_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_clean_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_clean_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_denim.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_denim.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_denim_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_denim_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_denim_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_denim_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_denim_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_denim_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_regular.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_regular.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_regular_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_regular_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_regular_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_regular_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_jeans_regular_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_jeans_regular_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_V2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_V2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_V2_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_V2_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_V2_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_V2_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_V2_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_V2_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_freeRun.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_freeRun.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_freeRun_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_freeRun_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_freeRun_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_freeRun_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_freeRun_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_freeRun_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_french.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_french.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_french_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_french_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_french_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_french_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_french_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_french_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_ultra.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_ultra.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_ultra_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_ultra_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_ultra_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_ultra_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\quan_short_ultra_3.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\quan_short_ultra_3.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\sat-nach-aqua.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\sat-nach-aqua.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\sat-nach-aqua_1.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\sat-nach-aqua_1.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\Products\\Images\\sat-nach-aqua_2.jpg",
+      "PackagePath": "staticwebassets\\Products\\Images\\sat-nach-aqua_2.jpg"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\NAM3\\KY2\\LapTrinhWeb\\webProject\\QLBanQuanAoNam\\QLBanQuanAoNam\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.QLBanQuanAoNam.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.QLBanQuanAoNam.props",
+      "PackagePath": "build\\QLBanQuanAoNam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.QLBanQuanAoNam.props",
+      "PackagePath": "buildMultiTargeting\\QLBanQuanAoNam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.QLBanQuanAoNam.props",
+      "PackagePath": "buildTransitive\\QLBanQuanAoNam.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

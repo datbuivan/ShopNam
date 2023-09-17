@@ -1,0 +1,13 @@
+﻿@model IEnumerable<LoaiSp>
+<div class="flex-w flex-l-m filter-tope-group m-tb-10">
+@*	<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 " >
+        <a style="color: black ; text-decoration: none;" asp-controller="Home" asp-action="Index">Tất Cả Sản Phẩm</a>
+		
+	</button>*@
+	@foreach(var loaisp in Model)
+	{
+		<button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5" >
+			<a style="color: black ; " href="@Url.Content("/Home/SanPhamTheoLoai?maLoaiSp="+loaisp.MaLoaiSp)">@loaisp.TenLoaiSp</a>
+		</button>
+	}	
+</div>

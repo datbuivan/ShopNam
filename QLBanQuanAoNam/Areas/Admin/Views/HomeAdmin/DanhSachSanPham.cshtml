@@ -1,0 +1,60 @@
+﻿@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<SanPham>
+@using QLBanQuanAoNam.Models;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "DanhSachSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>DANH SÁCH SẢN PHẨM</h1>
+<p>
+    <a class="btn btn-success" asp-action="ThemSanPham">Thêm Mới Sản Phẩm</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+               Tên Sản Phẩm
+            </th>
+            <th>
+               Hình Ảnh Sản Phẩm
+            </th>
+            <th>
+                Giá Bán
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @item.TenSanPham
+            </td> 
+            <td>
+                <img style="width:50px;height:50px" src="~/Products/Images/@item.HinhAnhAvatar" />
+            </td>
+            <td>
+                @item.GiaBan
+            </td>
+            <td>
+                <a class="btn btn-warning" asp-action="SuaSanPham" asp-route-maSanPham="@item.MaSanPham">Sửa</a> |
+                <a class="btn btn-info" asp-action="ThemChiTietSanPham" asp-route-maSanPham="@item.MaSanPham">Chi Tiết</a> |
+                <a class="btn btn-danger" asp-action="XoaSanPham" asp-route-maSanPham="@item.MaSanPham">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+@{
+    if (ViewBag.page > 1)
+    {
+        <div class="pagination ml-3 mt-5">
+            @Html.PagedListPager(Model,page => Url.Action("DanhSachSanPham", new {page=page,SearchText=ViewBag.SearchText}),new X.PagedList.Web.Common.PagedListRenderOptions(){
+             LiElementClasses=new List<String> {"page-item"},
+             PageClasses = new List<String> {"page-link"}
+            })
+        </div>
+    }
+}

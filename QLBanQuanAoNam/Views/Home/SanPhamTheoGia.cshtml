@@ -1,0 +1,24 @@
+﻿@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<SanPham>
+@{
+	ViewData["Title"] = "San Pham Theo Gia";
+	Layout = "~/Views/Shared/_LayoutFashionMen.cshtml";
+}
+<section class="bg0 p-t-23 p-b-140">
+	<div class="container">
+		@await Html.PartialAsync("~/Views/Shared/_PartialSidebar.cshtml")
+		<div class="row isotope-grid">
+			@foreach (var item in Model)
+			{
+				@await Html.PartialAsync("~/Views/Shared/_PartialProduct.cshtml",item)
+			}
+		</div>
+		@if (ViewBag.page > 1)
+		{
+			@Html.PagedListPager(Model,page => Url.Action("Shop", new {page=page}),new X.PagedList.Web.Common.PagedListRenderOptions(){
+		LiElementClasses = new List<String> {"page-item"},
+		PageClasses = new List<String> {"page-link"}
+		})
+		}
+	</div>
+</section>

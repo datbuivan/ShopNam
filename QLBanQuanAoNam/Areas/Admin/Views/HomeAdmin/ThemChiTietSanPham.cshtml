@@ -1,0 +1,260 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@using QLBanQuanAoNam.Areas.Admin.ViewModels
+@model CTSPViewModel
+
+@{
+    ViewData["Title"] = "ThemChiTietSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="pt-3 w-100" style="min-height:100vh">
+    <div class="row w-100 m-0 mt-3">
+        <div class="col-md-6">
+            <h4 class="ml-4">Trang chủ / Thêm chi tiết sản phẩm</h4>
+        </div>
+        <div class="col-md-6 d-flex justify-content-end">
+            <div>
+                <a asp-action="DanhSachSanPham" class="btn btn-info mr-5">Xem danh sách</a>
+            </div>
+        </div>
+    </div>
+    @if (!string.IsNullOrEmpty(ViewBag.Msg))
+    {
+        <div class="alert alert-danger row m-0 pl-5 pr-5 mt-5 w-100">@ViewBag.Msg</div>
+    }
+    <div class="row w-100 mt-3 pl-3 pr-3">
+        <div class="col-md-5">
+            <div class="table-responsive pt-3">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Tên sản phẩm</th>
+                            <th>Màu sắc</th>
+                            <th>Kích thước</th>
+                            <th>Số lượng</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in ViewBag.CT)
+                        {
+                            <tr>
+                                <td class="msp">@ViewBag.SP.TenSanPham</td>
+                                @for (var i = 0; i < ViewBag.MS.Count; i++)
+                                {
+                                    if (item.MaMauSac == ViewBag.MS[i].MaMauSac)
+                                    {
+                                        <td class="ms-dbv">@ViewBag.MS[i].TenMauSac</td>
+                                    }
+                                }
+                                @for (var i = 0; i < ViewBag.KT.Count; i++)
+                                {
+                                    if (item.MaKichThuoc == ViewBag.KT[i].MaKichThuoc)
+                                    {
+                                        <td class="kt-dbv">@ViewBag.KT[i].TenKichThuoc</td>
+                                    }
+                                }
+                                <td>@item.SoLuong</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-md-7 pt-5">
+            <div class="row m-0 mb-3" style="width:100%">
+                <div class="col-md-5 d-flex justify-content-center align-items-center was-validated">
+                    <select class="form-control color-select" required>
+                        @for (var i = 0; i < ViewBag.MS.Count; i++)
+                        {
+                            @*var isSelected = false;
+                        for (var j = 0; j < ViewBag.CT.Count; j++)
+                        {
+                        if (ViewBag.MS[i].MaMauSac == ViewBag.CT[j].MaMauSac)
+                        {
+                        isSelected = true;
+                        break;
+                        }
+                        }
+                        if (!isSelected)
+                        {*@
+                            <option value="@ViewBag.MS[i].MaMauSac">@ViewBag.MS[i].TenMauSac</option>
+                            @*}*@
+                        }
+                    </select>
+                </div>
+                <div class="col-md-5 d-flex justify-content-center align-items-center was-validated">
+                    <select style="width:70%" class="form-control size-select" required>
+                        @for (var i = 0; i < ViewBag.KT.Count; i++)
+                        {
+                            @*var isSelected = false;
+                        for (var j = 0; j < ViewBag.CT.Count; j++)
+                        {
+                        if (ViewBag.KT[i].MaKichThuoc == ViewBag.CT[j].MaKichThuoc)
+                        {
+                        isSelected = true;
+                        break;
+                        }
+                        }
+                        if (!isSelected)
+                        {*@
+                            <option value="@ViewBag.KT[i].MaKichThuoc">@ViewBag.KT[i].TenKichThuoc</option>
+                            @*}*@
+                        }
+                    </select>
+                </div>
+                <div class="col-md-2 d-flex justify-content-center align-items-center">
+                    <p class="add-btn btn btn-success m-0" style="cursor:pointer">Thêm</p>
+                </div>
+            </div>
+            <form asp-action="ThemChiTietSanPham" class="was-validated">
+                <input type="hidden" asp-for="@Model.MaSanPham" value="@ViewBag.SP.MaSanPham" />
+                @for (var i = 0; i < ViewBag.Count * 2; i++)
+                {
+                    <div class="row m-0 result-row mt-2" style="width:100%; display:none;">
+                        <input type="hidden" asp-for="@Model.ChiTietSanPham[i].MaSanPham" class="inputMaSanPham" value="@ViewBag.SP.MaSanPham">
+                        <div class="form-group pl-3 pr-3" style="float:left; width: 30%;">
+                            <label asp-for="@Model.ChiTietSanPham[i].MaMauSac" class="control-label"></label>
+                            <select asp-for="@Model.ChiTietSanPham[i].MaMauSac" class="form-control color-result" disabled></select>
+                        </div>
+                        <div class="form-group pl-3 pr-3" style="float:left; width: 20%;">
+                            <label asp-for="@Model.ChiTietSanPham[i].MaKichThuoc" class="control-label"></label>
+                            <select asp-for="@Model.ChiTietSanPham[i].MaKichThuoc" class="form-control size-result" disabled></select>
+                        </div>
+                        <div class="form-group pl-3 pr-3" style="float:left; width: 30%;">
+                            <label asp-for="@Model.ChiTietSanPham[i].SoLuong" class="control-label"></label>
+                            <input class="form-control qty-result" asp-for="@Model.ChiTietSanPham[i].SoLuong" type="number" min="0" required />
+                            <div class="invalid-feedback">
+                                Please choose the product quantity.
+                            </div>
+                        </div>
+                        <div class="pr-3 d-flex justify-content-center align-items-center" style="float:left; width: 20%;padding-top:35px;">
+                            <p class="btn btn-danger d-flex justify-content-center align-items-center m-0 rm-row"><i class="ti-trash"></i></p>
+                        </div>
+                        <div style="clear:both;"></div>
+                    </div>
+                }
+                <div class="row m-0 mt-5" style="width:100%">
+                    <div class="form-group d-flex justify-content-center align-items-center">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<script>
+
+    // Lấy tất cả các result-row có class là 'result-row'
+    var resultRows = document.querySelectorAll('.result-row');
+
+    // Duyệt qua từng result-row
+    resultRows.forEach(function (resultRow) {
+        // Nếu result-row đang ẩn
+        if (resultRow.style.display === 'none') {
+            // Tìm tất cả các input và select bên trong result-row
+            var inputs = resultRow.querySelectorAll('input, select');
+            // Duyệt qua từng input và select để đặt trạng thái disabled=true
+            inputs.forEach(function (input) {
+                input.disabled = true;
+            });
+        }
+    });
+</script>
+
+<script>
+    // Add click event listener to "Add" button
+    document.querySelector('.add-btn').addEventListener('click', function () {
+        // Find the first hidden result row within the for loop
+        var resultRow = document.querySelector('.result-row[style*="display:none"]');
+        if (resultRow) {
+            // Get the selected values and text from the two select dropdowns
+            var colorSelect = document.querySelector('.color-select');
+            var sizeSelect = document.querySelector('.size-select');
+            var selectedColorValue = colorSelect.options[colorSelect.selectedIndex].value;
+            var selectedColorText = colorSelect.options[colorSelect.selectedIndex].text;
+            var selectedSizeValue = sizeSelect.options[sizeSelect.selectedIndex].value;
+            var selectedSizeText = sizeSelect.options[sizeSelect.selectedIndex].text;
+
+            // Check if the selected color and size pair already exist in the list
+            var inputs = document.querySelectorAll('.result-row');
+            var exists = false;
+            for (var i = 0; i < inputs.length; i++) {
+                var colorResult = inputs[i].querySelector('.color-result');
+                var sizeResult = inputs[i].querySelector('.size-result');
+                if (colorResult.value === selectedColorValue && sizeResult.value === selectedSizeValue) {
+                    alert('Màu và kích thước đã tồn tại. Vui lòng chọn lại!');
+                    exists = true;
+                    break;
+                }
+            }
+
+            var colorDbv = document.querySelectorAll('.ms-dbv');
+            var sizeDbv = document.querySelectorAll('.kt-dbv');
+            for (var i = 0; i < colorDbv.length; i++) {
+                if (colorDbv[i].textContent.trim() === selectedColorText.trim() && sizeDbv[i].textContent.trim() === selectedSizeText.trim()) {
+                    alert('Màu và kích thước đã thêm trước đó. Vui lòng chọn lại!');
+                    exists = true;
+                    break;
+                }
+            }
+
+            if (!exists) {
+                // Display the result row by changing its style attribute
+                resultRow.style.display = 'block';
+                // Tìm tất cả các input và select bên trong result-row
+                var inputs = resultRow.querySelectorAll('input, select');
+                // Duyệt qua từng input và select để đặt trạng thái disabled=false
+                inputs.forEach(function (input) {
+                    input.disabled = false;
+                });
+                // Assign the selected values and text to the corresponding input fields
+                var colorResultInput = resultRow.querySelector('.color-result');
+                var sizeResultInput = resultRow.querySelector('.size-result');
+
+                var option = document.createElement("option");
+                option.value = selectedColorValue;
+                option.text = selectedColorText;
+                colorResultInput.add(option);
+                colorResultInput.value = selectedColorValue;
+                //colorResultInput.disabled = true;
+
+                var option2 = document.createElement("option");
+                option2.value = selectedSizeValue;
+                option2.text = selectedSizeText;
+                sizeResultInput.add(option2);
+                sizeResultInput.value = selectedSizeValue;
+                //sizeResultInput.disabled = true;
+
+                //const params = new URLSearchParams(window.location.search);
+
+                //// Lấy giá trị của tham số "name"
+                //const masp = params.get('masp');
+
+                //resultRow.getElementsByClassName("inputMaSanPham")[0].value = masp;
+
+            }
+        }
+    });
+</script>
+
+<script>
+
+        const rmRowElements = document.querySelectorAll('.rm-row');
+    rmRowElements.forEach((rmRowElement) => {
+      rmRowElement.addEventListener('click', () => {
+        const resultRowElement = rmRowElement.closest('.result-row');
+        const resultRowInputs = resultRowElement.querySelectorAll('input, select');
+        resultRowInputs.forEach((resultRowInput) => {
+          resultRowInput.value = '';
+        });
+        resultRowElement.style.display = 'none';
+      });
+    });
+
+
+
+
+</script>
